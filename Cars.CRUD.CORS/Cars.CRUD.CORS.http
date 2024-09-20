@@ -1,0 +1,6 @@
+@Cars.CRUD.CORS_HostAddress = http://localhost:5044
+
+GET {{Cars.CRUD.CORS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
